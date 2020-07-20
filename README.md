@@ -8,7 +8,7 @@ The "Issues" page from this repository is being used for TO-DO management, just 
 
 ## Credits
 
-[@gabrielrcouto](http://www.twitter.com/gabrielrcouto)
+Ahmed Kamel
 
 ## License
 
